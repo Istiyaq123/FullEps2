@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=708000,RESOLUTION=1280x720,CODECS="avc1.64001f",AUDIO="audio-group"
+https://www.crap-dap.com/outVideo/descargas/stream/serie-liko/t01/e09/video/t01_e09.720p.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-group",NAME="Deutsch",LANGUAGE="de",AUTOSELECT=YES,DEFAULT=YES,URI="https://www.crap-dap.com/outVideo/descargas/stream/serie-liko/t01/e09/de/t01_e09.de.m3u8"
